@@ -1,30 +1,25 @@
 # Future Student's Diary | Дневник будущего студента
 
-**Author:** Alina Nikitina
-**Goal:** Get into a top world university for Engineering Physics.
-**Start:** July 2026, 9th grade.
-**Current project:** Thomson's Ring.
+🎯 **Goal:** admission to the world's top universities for engineering physics  
+📍 **Currently:** entering 9th grade, preparing for college  
+🗓️ **Progress journal:** daily updates starting July 2026  
+📂 **Here you'll find:** topics studied, problems solved, projects, and notes
 
 ---
 
-*From a village workshop to a world-class lab. This diary is a promise to myself. I will get in. And every piece of proof will be right here.*
+## The Plan (5-Year Horizon)
 
-*P.S. English is not my first language. There will be mistakes. If you're a native speaker and your eyes are bleeding — I am sorry. And please correct me.*
+1. **Build a strong foundation** — math and physics deep understanding
+2. **Complete a specialized college program** — physics/math profile
+3. **National exams (ЕГЭ)** — 95+ in math and physics
+4. **International exams** — IELTS/TOEFL + SAT/ACT
+5. **Apply to top universities** — MSU, NSU, MIT, Stanford, and others
 
----
+## Current Focus (9th Grade)
 
-## Day 1: Start
+- Mastering school curriculum ahead of schedule
+- Developing problem-solving intuition
+- Learning to document my work properly (this repository is part of it)
+- Exploring engineering physics through books, videos, and hands-on projects
 
-**Date:** July 26, 2026.
-
-Registered on GitHub. This is my public diary. I will write everything here: calculations, failures, successes, and photos of burnt coils.
-
-**Done:**
-- [x] Created repository
-- [x] Wrote first post
-- [x] Wrote honest description in English
-
-**Plan for tomorrow:**
-
-**Thought of the day:**
-You can't just take any wire and plug it into the outlet. You have to calculate. Math first — then hardware.
+## Repository Structure
